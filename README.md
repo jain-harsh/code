@@ -9,9 +9,12 @@ following are some of the resources/refrences i used to learn and write the code
 https://dcm4che.atlassian.net/wiki/spaces/d2/pages/1835034/Reading+DICOM+files     
 https://www.dcm4che.org/docs/dcm4che-2.0.12-apidocs/org/dcm4che2/data/DicomObject.html   
 https://www.programcreek.com/java-api-examples/?api=org.dcm4che2.data.DicomElement
-https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
-stack overflow  https://stackoverflow.com/questions/34413/why-am-i-getting-a-noclassdeffounderror-in-java)
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html 
+
+stack overflow
+(https://stackoverflow.com/questions/34413/why-am-i-getting-a-noclassdeffounderror-in-java)
 (https://stackoverflow.com/questions/37390031/how-to-import-dcm4che-library-to-java-project)
 (https://stackoverflow.com/questions/31351753/how-to-read-the-content-of-a-dicom-file-in-java)
 (https://stackoverflow.com/questions/10824027/get-the-metadata-of-a-file)
+
 geeksfor geeks(https://www.geeksforgeeks.org/how-to-use-iterator-in-java/)
