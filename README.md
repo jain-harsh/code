@@ -18,3 +18,4 @@ stack overflow
 (https://stackoverflow.com/questions/10824027/get-the-metadata-of-a-file)
 
 geeksfor geeks(https://www.geeksforgeeks.org/how-to-use-iterator-in-java/)
+https://mvnrepository.com/artifact/dcm4che/dcm4che-core   to get dcm4che and slf4j library dependency.
