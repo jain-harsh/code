@@ -9,6 +9,7 @@ following are some of the resources/refrences i used to learn and write the code
 https://dcm4che.atlassian.net/wiki/spaces/d2/pages/1835034/Reading+DICOM+files     
 https://www.dcm4che.org/docs/dcm4che-2.0.12-apidocs/org/dcm4che2/data/DicomObject.html   
 https://www.programcreek.com/java-api-examples/?api=org.dcm4che2.data.DicomElement
+http://jdt.trispark.com/api/com/archimed/dicom/DicomObject.html   
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html 
 
 stack overflow
