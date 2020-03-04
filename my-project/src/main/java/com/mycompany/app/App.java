@@ -15,9 +15,12 @@ public class App
 {
     public static void main( String[] args )
     {
-         DicomObject object = null;  
+         DicomObject object = null; 
+        Scanner scn=new Scanner(System.in);
+	    System.out.println("Enter location of file");
+	    String location=scn.nextLine();
            try {
-              DicomInputStream dis = new DicomInputStream(new File("E:\\000000.dcm"));
+              DicomInputStream dis = new DicomInputStream(new File(location));
               object = dis.readDicomObject();
               dis.close();
            } catch (Exception e) {
