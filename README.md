@@ -1,7 +1,6 @@
 In this i used DCM4CHE version 2.0.29 to extract meta data.
 download the zip file and extract it to a folder. 
-To execute the code, open command line. Change  the directory where the project is saved using cd command .Then type 
-
+To execute the code, open command line. Change  the directory where the project is saved using cd command .Then type   
 cd my-project  
 then type  
 mvn package  
@@ -9,12 +8,13 @@ this will download all the neccesarry jar and other files.
 then type    
 ( java -cp target/my-project-1.0-SNAPSHOT.jar;target/dcm4che-core-2.0.29.jar;target/slf4j-api-1.6.1.jar com.mycompany.app.App ) 
 
-This will show all the metadata of the file.
+This will show all the metadata of the file.  
 following are some of the resources/refrences i used to learn and write the code.  
 https://dcm4che.atlassian.net/wiki/spaces/d2/pages/1835034/Reading+DICOM+files     
 https://www.dcm4che.org/docs/dcm4che-2.0.12-apidocs/org/dcm4che2/data/DicomObject.html   
 https://www.programcreek.com/java-api-examples/?api=org.dcm4che2.data.DicomElement
 http://jdt.trispark.com/api/com/archimed/dicom/DicomObject.html   
+https://groups.google.com/forum/#!topic/dcm4che/yCb6j7gtt_0  
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html 
 
 stack overflow
