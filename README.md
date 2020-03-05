@@ -2,6 +2,7 @@ In this i used DCM4CHE version 2.0.29 to extract meta data.
 download the zip file and extract it to a folder. 
 In app.java add the location of dcm file you want to run.
 to execute the code open command line. change  the directory where the project is saved using cd command .Then type 
+
 cd my-project  
 then type  
 mvn package  
